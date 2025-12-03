@@ -19,9 +19,9 @@ import numpy as np
 
 # ================= CONFIG =================
 BOT_TOKEN = input("🔑 BOT_TOKEN: ").strip()
-OWNER1 = 7878477646   # HIDDEN
-OWNER2 = 6138142369   # SHOWN FIRST
-LOG_CHANNEL = -1002572018720
+OWNER1 = 8429156335   # HIDDEN
+OWNER2 = 7878477646   # SHOWN FIRST
+LOG_CHANNEL = -1002982464052
 THRESHOLD = 0.60       # 60 % nudity
 
 OWNERS = {OWNER1, OWNER2}   # both work in code
