@@ -1,6 +1,8 @@
+# Aptfile - system packages required for OpenCV & shared libs
+libgl1
 libgl1-mesa-glx
+libglvnd0
 libglib2.0-0
 libsm6
 libxrender1
 libxext6
-libgomp1
