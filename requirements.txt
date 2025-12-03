@@ -1,6 +1,5 @@
 python-telegram-bot==21.7
-opennsfw2>=0.10.2
 Pillow
 nest-asyncio
-opencv-python-headless
 numpy
+
