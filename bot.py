@@ -12,13 +12,12 @@ from typing import Dict, Set, List, Optional
 
 # Install required packages
 required_packages = [
-    python-telegram-bot==21.7,
-    opennsfw2==0.15.2,
-    opencv-python-headless==4.12.0.88,
-    numpy==2.2.6,
-    Pillow==12.0.0,
-    nest-asyncio==1.5.6,
-
+    "python-telegram-bot==21.7",
+    "opennsfw2>=0.10.2", 
+    "pillow",
+    "nest-asyncio",
+    "opencv-python-headless",
+    "numpy"
 ]
 
 for package in required_packages:
