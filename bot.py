@@ -12,8 +12,8 @@ from typing import Dict, Set, List, Optional
 
 # Install required packages
 required_packages = [
-   python-telegram-bot==21.7,
-   opennsfw2==0.15.2,
+    python-telegram-bot==21.7,
+    opennsfw2==0.15.2,
     opencv-python-headless==4.12.0.88,
     numpy==2.2.6,
     Pillow==12.0.0,
